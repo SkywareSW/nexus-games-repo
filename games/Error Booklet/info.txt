@@ -1,0 +1,5 @@
+name: Error Booklet
+description: Documentation for all Skyware Nexus Error Codes
+version: 0.1
+author: Skyware
+category: Documentation
