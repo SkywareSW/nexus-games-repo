@@ -1,0 +1,5 @@
+name: DUSTTRUST X
+description: DTX
+version: 0.0.1
+author: AWESOME GAMES
+category: Action

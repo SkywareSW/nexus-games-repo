@@ -1,5 +1,0 @@
-name: DUSTTRUST
-description: old
-version: 1.0.0
-author: sky
-category: Action
