@@ -1,0 +1,5 @@
+name: Minecraft: Legacy Console Edition
+description: Minecraft Legacy Console Edition
+version: TU19
+author: Mojang/4J Studios
+category: Sandbox/Adventure
