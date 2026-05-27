@@ -1,0 +1,6 @@
+name: Roblox
+description: Powering Imagination.
+version: rolling
+author: Roblox
+category: Online
+type: setup

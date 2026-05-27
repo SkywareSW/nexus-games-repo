@@ -1,0 +1,6 @@
+name: Arreactive
+description: Speed based game playable with just your four arrow keys
+version: 1.3.0
+author: Sky
+category: Minigames
+type: setup

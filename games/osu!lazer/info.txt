@@ -1,0 +1,6 @@
+name: osu!lazer
+description: Feel the Rhythm.
+version: lazer(rolling)
+author: peppy
+category: Rhythm
+type: setup
